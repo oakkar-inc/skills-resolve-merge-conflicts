@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+A new references.md file to test merge conflicts.
