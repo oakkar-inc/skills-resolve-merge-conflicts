@@ -1,0 +1,1 @@
+A new references.md file to test merge conflicts.
